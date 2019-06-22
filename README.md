@@ -1,1 +1,1 @@
-# zed-official.github.io
+# z-ed.me
