@@ -60,7 +60,7 @@ input[type="submit"],.w3agile_contact_right_agileinfo p a,.w3_copy_right p a{
 	text-transform:uppercase;
 }
 .navigation-right ul li.active a{
-	color:#2DCABD;
+	color:#fcc203;
 }
 .navigation {
     padding:1em 0em;
@@ -84,8 +84,8 @@ span.menu{
 	overflow: hidden;
 	padding: 10px 0;
 	max-width: 0;
-	border-bottom: 2px solid #2DCABD;
-    color: #2DCABD;
+	border-bottom: 2px solid #fcc203;
+    color: #fcc203;
 	content: attr(data-hover);
 	-webkit-transition: max-width 0.5s;
 	-moz-transition: max-width 0.5s;
@@ -207,7 +207,7 @@ button.close {
 	left: 50%;
 	right: 50%;
 	bottom: 0;
-	background: #2DCABD;
+	background: #fcc203;
     height: 3px;
 	-webkit-transition-property: left, right;
 	transition-property: left, right;
@@ -243,7 +243,7 @@ button.close {
 .banner-bottom-image-text-left{
 	padding:5em 10em 6.95em 18em;
 /*-- agileits --*/
-	background:#2DCABD;
+	background:#fcc203;
 }
 .banner-bottom-image-text-right{
 	padding:0;
@@ -373,7 +373,7 @@ p.nostrud{
 }
 .view h5 {
 	text-transform: capitalize;
-    color:#2DCABD;
+    color:#fcc203;
     text-align: center;
     position: relative;
     font-size: 1.7em;
@@ -554,7 +554,7 @@ p.nostrud{
 	margin: -1.8rem;
 }
 .twitter span,.facebook span,.google-plus span,.pinterest span {
-	background-color:#2DCABD;
+	background-color:#fcc203;
 }
 /* Icons */
 .icon-button i {
@@ -674,7 +674,7 @@ select#country,select#country1{
     margin: 4em 0 0 20em;
 }
 .reservation input[type="submit"]:hover{
-	background: #2DCABD;
+	background: #fcc203;
     border: 1px solid #BDAF21;
     color: #212121;
 }
@@ -736,7 +736,7 @@ select#country,select#country1{
     transform: rotate(360deg);
 }
 .w3agile_gallery_grid figcaption h4 {
-    color: #2DCABD;
+    color: #fcc203;
     padding: 0px 20px;
     margin-bottom: 0;
     position: relative;
@@ -870,7 +870,7 @@ div#myTabContent {
 	background:#F7F7F7;
 }
 .w3agile_contact_right{
-	background:#2DCABD;
+	background:#fcc203;
 }
 .w3agile_contact_left p {
     color: #212121;
@@ -905,7 +905,7 @@ div#myTabContent {
     margin: 3em 0 0;
 }
 .w3agile_contact_left input[type="submit"]:hover{
-	background:#2DCABD;
+	background:#fcc203;
 	color:#212121;
 }
 .w3agile_contact_right h3 a{
