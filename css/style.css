@@ -3,11 +3,11 @@ body{
 	margin:0;
 	padding:0;
 	background:#fff;
-	font-family: 'Open Sans', san-serif;
+	font-family: 'Open Sans', sans-serif;
  }
 h1,h2,h3,h4,h5,h6{
 	margin:0;	
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Gloria Hallelujah', cursive;
 }	
 p{
 	margin:0;
@@ -60,7 +60,7 @@ input[type="submit"],.w3agile_contact_right_agileinfo p a,.w3_copy_right p a{
 	text-transform:uppercase;
 }
 .navigation-right ul li.active a{
-	color:#fcc203;
+	color:#FFC300;
 }
 .navigation {
     padding:1em 0em;
@@ -84,8 +84,8 @@ span.menu{
 	overflow: hidden;
 	padding: 10px 0;
 	max-width: 0;
-	border-bottom: 2px solid #fcc203;
-    color: #fcc203;
+	border-bottom: 2px solid #FFC300;
+    color: #FFC300;
 	content: attr(data-hover);
 	-webkit-transition: max-width 0.5s;
 	-moz-transition: max-width 0.5s;
@@ -139,7 +139,7 @@ span.menu{
 }
 .w3ls_banner_info h3:after{
 	content:'';
-	background:#fcba03;
+	background:#32EADB;
 	height:1px;
 	width:30%;
 	position:absolute;
@@ -153,7 +153,7 @@ span.menu{
 }
 .modal-header {
     font-size: 2em;
-    color:#fcba03;
+    color:#32EADB;
 }
 .close {
     opacity: 1;
@@ -166,7 +166,7 @@ span.menu{
     text-transform: capitalize;
     text-decoration: none;
     padding: 8px 40px;
-    background: #fcba03;
+    background: #32EADB;
     color: #fff;
 }
 .modal-body p {
@@ -207,7 +207,7 @@ button.close {
 	left: 50%;
 	right: 50%;
 	bottom: 0;
-	background: #fcc203;
+	background: #FFC300;
     height: 3px;
 	-webkit-transition-property: left, right;
 	transition-property: left, right;
@@ -227,7 +227,7 @@ button.close {
 .wthree_banner_bottom_right h3{
 	text-transform: capitalize;
     font-size: 1.8em;
-    color: #3dd9eb;
+    color: #32EADB;
     line-height: 1.5em;
 }
 .wthree_banner_bottom_right p{
@@ -243,7 +243,7 @@ button.close {
 .banner-bottom-image-text-left{
 	padding:5em 10em 6.95em 18em;
 /*-- agileits --*/
-	background:#3dd9eb;
+	background:#FFC300;
 }
 .banner-bottom-image-text-right{
 	padding:0;
@@ -306,7 +306,7 @@ button.close {
 }
 .team h3,.team-bottom h3,.gallery h3,.testimonials h3{
 	font-size: 2.5em;
-    color: #fcba03;
+    color: #32EADB;
     padding-bottom:.7em;
     position: relative;
     font-family: 'Open Sans', sans-serif;
@@ -373,7 +373,7 @@ p.nostrud{
 }
 .view h5 {
 	text-transform: capitalize;
-    color:#fcc203;
+    color:#FFC300;
     text-align: center;
     position: relative;
     font-size: 1.7em;
@@ -554,7 +554,7 @@ p.nostrud{
 	margin: -1.8rem;
 }
 .twitter span,.facebook span,.google-plus span,.pinterest span {
-	background-color:#fcc203;
+	background-color:#FFC300;
 }
 /* Icons */
 .icon-button i {
@@ -674,7 +674,7 @@ select#country,select#country1{
     margin: 4em 0 0 20em;
 }
 .reservation input[type="submit"]:hover{
-	background: #fcc203;
+	background: #FFC300;
     border: 1px solid #BDAF21;
     color: #212121;
 }
@@ -736,7 +736,7 @@ select#country,select#country1{
     transform: rotate(360deg);
 }
 .w3agile_gallery_grid figcaption h4 {
-    color: #fcc203;
+    color: #FFC300;
     padding: 0px 20px;
     margin-bottom: 0;
     position: relative;
@@ -870,7 +870,7 @@ div#myTabContent {
 	background:#F7F7F7;
 }
 .w3agile_contact_right{
-	background:#fcc203;
+	background:#FFC300;
 }
 .w3agile_contact_left p {
     color: #212121;
@@ -901,11 +901,11 @@ div#myTabContent {
     width: 30%;
     font-size: 14px;
     color: #fff;
-    background: #fcba03;
+    background: #32EADB;
     margin: 3em 0 0;
 }
 .w3agile_contact_left input[type="submit"]:hover{
-	background:#fcc203;
+	background:#FFC300;
 	color:#212121;
 }
 .w3agile_contact_right h3 a{
