@@ -139,7 +139,7 @@ span.menu{
 }
 .w3ls_banner_info h3:after{
 	content:'';
-	background:#32EADB;
+	background:#fcba03;
 	height:1px;
 	width:30%;
 	position:absolute;
@@ -153,7 +153,7 @@ span.menu{
 }
 .modal-header {
     font-size: 2em;
-    color:#32EADB;
+    color:#fcba03;
 }
 .close {
     opacity: 1;
@@ -166,7 +166,7 @@ span.menu{
     text-transform: capitalize;
     text-decoration: none;
     padding: 8px 40px;
-    background: #32EADB;
+    background: #fcba03;
     color: #fff;
 }
 .modal-body p {
@@ -227,7 +227,7 @@ button.close {
 .wthree_banner_bottom_right h3{
 	text-transform: capitalize;
     font-size: 1.8em;
-    color: #32EADB;
+    color: #fcba03;
     line-height: 1.5em;
 }
 .wthree_banner_bottom_right p{
@@ -306,7 +306,7 @@ button.close {
 }
 .team h3,.team-bottom h3,.gallery h3,.testimonials h3{
 	font-size: 2.5em;
-    color: #32EADB;
+    color: #fcba03;
     padding-bottom:.7em;
     position: relative;
     font-family: 'Open Sans', sans-serif;
@@ -901,7 +901,7 @@ div#myTabContent {
     width: 30%;
     font-size: 14px;
     color: #fff;
-    background: #32EADB;
+    background: #fcba03;
     margin: 3em 0 0;
 }
 .w3agile_contact_left input[type="submit"]:hover{
